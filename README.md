@@ -20,7 +20,6 @@ Interactive Visuals: Engage with charts and graphs that update in real-time base
 GitHub
 GitHub
 +1
-<img width="1407" height="532" alt="Screen Shot 2025-08-21 at 12 49 45 AM" src="https://github.com/user-attachments/assets/681a81b8-8519-4057-81eb-449b31fde6f5" />
 
 # 🛠️ Tools & Technologies
 
