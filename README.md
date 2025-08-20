@@ -17,9 +17,7 @@ Trend Analysis: Visualize sales trends over time to identify growth patterns.
 Top Performers: Highlight top-performing products and regions.
 
 Interactive Visuals: Engage with charts and graphs that update in real-time based on selected filters.
-GitHub
-GitHub
-+1
+
 
 
 
