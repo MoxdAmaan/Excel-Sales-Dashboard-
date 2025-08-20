@@ -1,8 +1,8 @@
-📊 Interactive Sales Dashboard
+# 📊 Interactive Sales Dashboard
 
 An advanced, interactive sales dashboard built using Excel, designed to provide actionable insights into business performance.
 
-🔍 Project Overview
+# 🔍 Project Overview
 
 This dashboard transforms raw sales data into a comprehensive visual representation, enabling stakeholders to make informed decisions.
 
@@ -21,7 +21,7 @@ GitHub
 GitHub
 +1
 
-🛠️ Tools & Technologies
+# 🛠️ Tools & Technologies
 
 Microsoft Excel: For data analysis, visualization, and dashboard creation.
 
