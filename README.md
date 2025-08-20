@@ -19,9 +19,7 @@ Top Performers: Highlight top-performing products and regions.
 Interactive Visuals: Engage with charts and graphs that update in real-time based on selected filters.
 
 
-
-
-
+# 🛠️ Tools & Technologies
 Microsoft Excel: For data analysis, visualization, and dashboard creation.
 
 PivotTables & PivotCharts: To summarize and analyze data.
@@ -30,4 +28,4 @@ Slicers: For interactive data filtering.
 
 Conditional Formatting: To highlight key metrics and trends.
 
-# 🛠️ Tools & Technologies<img width="1434" height="569" alt="Screen Shot 2025-08-21 at 12 54 47 AM" src="https://github.com/user-attachments/assets/e89a15fb-444d-4e5d-a8d3-a1aab2ee9cf4" />
+# <img width="1434" height="569" alt="Screen Shot 2025-08-21 at 12 54 47 AM" src="https://github.com/user-attachments/assets/e89a15fb-444d-4e5d-a8d3-a1aab2ee9cf4" />
