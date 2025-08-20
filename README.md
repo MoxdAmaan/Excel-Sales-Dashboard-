@@ -21,7 +21,8 @@ GitHub
 GitHub
 +1
 
-# 🛠️ Tools & Technologies
+
+
 
 Microsoft Excel: For data analysis, visualization, and dashboard creation.
 
@@ -31,4 +32,4 @@ Slicers: For interactive data filtering.
 
 Conditional Formatting: To highlight key metrics and trends.
 
-# <img width="1407" height="532" alt="Screen Shot 2025-08-21 at 12 49 45 AM" src="https://github.com/user-attachments/assets/681a81b8-8519-4057-81eb-449b31fde6f5" />
+# 🛠️ Tools & Technologies<img width="1434" height="569" alt="Screen Shot 2025-08-21 at 12 54 47 AM" src="https://github.com/user-attachments/assets/e89a15fb-444d-4e5d-a8d3-a1aab2ee9cf4" />
